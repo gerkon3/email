@@ -1,4 +1,4 @@
-<p align="center"><img width="500" src="https://user-images.githubusercontent.com/47634965/68460448-43b59d80-024b-11ea-8a1b-a9f7714d4798.png"></p>
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/47634965/68462909-e02e6e80-0250-11ea-9006-0462d663e4f3.png"></p>
 <p align="center">Email-письмо</p>
 <p align="center"><a align="center" href="https://gerkon3.github.io/email"><img alt="Website" src="https://img.shields.io/website?label=URL&up_message=gerkon3.github.io%2Femail&url=https%3A%2F%2Fgerkon3.github.io%2Femail"></a></p>
 <h1>Описание</h1>
