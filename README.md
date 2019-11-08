@@ -5,7 +5,7 @@
 <p>Письмо для email-рассылки</p>
 <br>
 <h1>Используемые инструменты</h1>
-<img src="https://user-images.githubusercontent.com/47634965/68461217-09e59680-024d-11ea-9358-3657a9118777.png">
+<img src="https://user-images.githubusercontent.com/47634965/68461475-a6a83400-024d-11ea-9038-3c16e6def02d.png">
 <br>
 <h1>Используемый стек технологий</h1>
 <img height="54" src="https://user-images.githubusercontent.com/47634965/68461014-9b083d80-024c-11ea-979f-bf4e00bbe98e.png">
