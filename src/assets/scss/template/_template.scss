@@ -1,0 +1,344 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles 
+body,
+html, 
+.body {
+  background: #f3f3f3 !important;
+}
+
+.container.header {
+  background: #f3f3f3;
+}
+
+.body-drip {
+  border-top: 8px solid #663399;
+}
+
+// Full Width Headers
+.header {
+  background-color: #E2E6E9;
+  background-image: url(http://ipic.su/img/img7/fs/header.1549969306.jpg);
+  background-repeat: repeat-x;
+  height: 119px;
+}
+
+.header .columns, .footer .columns {
+  padding-bottom: 0;
+}
+
+.header .wrapper-inner {
+  padding: 20px;
+}
+.header .container {
+  background: transparent;
+}
+.header-logo-title{
+  margin-top: 5px;
+  margin-bottom: 0;
+  color: #01447B;
+  font-weight: bold;
+  font-size: 14px;
+}
+.header-tel-title{
+    margin-bottom: 0;
+    color: #757575;
+    font-size: 14px;
+}
+.header-tel-number{
+    margin-bottom: 0;
+    color: #01447B;
+    font-weight: bold;
+    font-size: 22px;
+}
+.title{
+    color: #01447B;
+    font-weight: bold;
+    font-size: 20px;
+}
+.icons{
+    width: 100px !important;
+    height: 100px !important;
+}
+.icon-1{
+    background-color: #DB2905;
+    padding-top: 16px;
+}
+.icon-2{
+    background-color: #074672;
+    padding-top: 16px;
+}
+.icon-3{
+    background-color: #7AB412;
+    padding-top: 16px;
+}
+.icon-4{
+    background-color: #103F97;
+    padding-top: 16px;
+}
+.icon-5{
+    background-color: #DB2905;
+    padding-top: 16px;
+}
+.icon-6{
+    background-color: #7AB412;
+    padding-top: 16px;
+}
+.icon-7{
+    background-color: #EF7800;
+    padding-top: 16px;
+}
+.icon-8{
+    background-color: #594197;
+    padding-top: 16px;
+}
+.icon-9{
+    background-color: #074672;
+    padding-top: 16px;
+}
+.icon-10{
+    background-color: #074672;
+    padding-top: 16px;
+}
+.icon-11{
+    background-color: #DB2905;
+    padding-top: 16px;
+}
+.icon-12{
+    background-color: #7AB412;
+    padding-top: 16px;
+}
+.icon-13{
+    background-color: #5A4097;
+    padding-top: 16px;
+}
+.icons-text{
+    margin-bottom: 0;
+    padding-top: 16px;
+    color: #FEFEFE;
+}
+.company-icons{
+    width: 100px !important;
+}
+.price{
+    padding-top: 24px;
+    margin-bottom: 24px;
+    color: #178E3D;
+    font-size: 24px;
+}
+.price-text{
+    font-size: 14px;
+}
+.border, .border-sm{
+    border-left-color:#01447B;
+    border-left-style:solid;
+    border-left-width:1px;
+}
+.obligation-icons{
+    width: 75px !important;
+    height: 75px !important;
+}
+.obligation-text{
+    padding-top: 16px;
+    font-size: 14px;
+}
+.item-text{
+    list-style: none;
+    color: #FEFEFE;
+    font-size: 12px;
+}
+.rouble{
+    padding-top: 8px;
+    color: #01447B;
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 8px;
+}
+.rouble-text{
+    padding-bottom: 8px;
+    color: #01447B;
+}
+.contacts{
+    margin-top: 24px;
+    padding-top: 16px;
+    padding-bottom: 8px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-color: #01447B;
+    border-width: 1px;
+    border-style: solid;
+    font-weight: bold;
+}
+.contacts-tel{
+    margin-top: 16px;
+    color: #01447B;
+    line-height: 4;
+}
+.footer{
+    background-color: #084480;
+    background-image: url(http://ipic.su/img/img7/fs/footer.1549969369.jpg);
+    background-repeat: repeat;
+    height: 190px;
+}
+.footer p{
+    font-size: 14px;
+    color: #ffffff;
+    opacity: 0.5;
+}
+.footer-text{
+    margin-bottom: 0;
+}
+.footer img{
+    opacity: 0.5;
+}
+.footer-logo-title{
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+// Social Media
+table.button.facebook table td {
+  background: #3B5998 !important;
+  border-color: #3B5998;
+}
+
+table.button.twitter table td {
+  background: #1daced !important;
+  border-color: #1daced;
+}
+
+table.button.google table td {
+  background: #DB4A39 !important;
+  border-color: #DB4A39;
+}
+
+.wrapper.secondary {
+  background: #f3f3f3;
+}
+@media all{
+    .header-tel-number::before{
+        content: " ";
+        display: inline-block;
+        background-image: url(http://ipic.su/img/img7/fs/icons.1549976940.png);
+        background-repeat: no-repeat;
+        background-position: -68px 0;
+        width: 18px;
+        height: 18px;
+        margin-top: 0; 
+        margin-right: 10px;
+        margin-left: 10px;
+        margin-bottom: -1px;
+    }
+    .title:before{
+        content: " ";
+        display: inline-block;
+        background-image: url(http://ipic.su/img/img7/fs/title.1549971194.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 20px;
+        height: 20px;
+        padding-right: 5px;
+    }
+    .item-1:before{
+        content: " ";
+        display: inline-block;
+        background-image: url(http://ipic.su/img/img7/fs/item_1.1549996837.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 13px;
+        height: 13px;
+        padding-right: 5px;
+    }
+    .item-2:before{
+        content: " ";
+        display: inline-block;
+        background-image: url(http://ipic.su/img/img7/fs/item_2.1550003352.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 13px;
+        height: 13px;
+        padding-right: 5px;
+    }
+    .item-3:before{
+        content: " ";
+        display: inline-block;
+        background-image: url(http://ipic.su/img/img7/fs/item_3.1550003541.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 13px;
+        height: 13px;
+        padding-right: 5px;
+    }
+    .contacts-tel:before{
+        content: " ";
+        display: inline-block;
+        background-image: url(http://ipic.su/img/img7/fs/icons.1549976940.png);
+        background-repeat: no-repeat;
+        background-position: -22px 0;
+        width: 19px;
+        height: 21px;
+        margin-top: 0; 
+        margin-right: 5px;
+        margin-bottom: -3px;
+    }
+}
+@media only screen and (max-width: #{$global-breakpoint}){
+    .border-sm{
+        border-left-color: transparent !important;
+    }
+    .header-logo-sm{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        padding-top: 5px !important;
+    }
+    .header-logo-title, .header-tel-title, .header-tel-number, .footer-logo-title, .footer-text{
+        text-align: center !important;
+    }
+    .header-tel-title{
+        color: transparent !important;
+    }
+    .header-tel-number{
+        font-size: 14px !important;
+        padding-bottom: 10px !important;
+    }
+    .rouble-text{
+        margin-bottom: 8px !important;
+        padding-top: 0 !important;
+    }
+    .rouble{
+        margin-bottom: 20px !important;
+    }
+    .footer-logo-title{
+        padding-bottom: 8px !important;
+    }
+    .footer-logo-sm{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        padding-top: 6px !important;
+    }
+}
+@media only screen and (min-width: 597px){
+    .icon-1{
+        padding-left: 8px !important;
+    }
+    .icon-3{
+        padding-right: 8px !important;
+    }
+    .icon-7{
+        padding-left: 8px !important;
+    }
+    .icon-9{
+        padding-right: 8px !important;
+    }
+    .icon-10{
+        padding-left: 8px !important;
+    }
+    .icon-13{
+        padding-right: 8px !important;
+    }
+}
